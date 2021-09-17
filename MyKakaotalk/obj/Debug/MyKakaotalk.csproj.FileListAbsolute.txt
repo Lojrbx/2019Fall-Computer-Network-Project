@@ -1,0 +1,16 @@
+C:\Users\Lojrbx_\source\repos\MyKakaotalk\MyKakaotalk\bin\Debug\MyKakaotalk.exe.config
+C:\Users\Lojrbx_\source\repos\MyKakaotalk\MyKakaotalk\bin\Debug\MyKakaotalk.exe
+C:\Users\Lojrbx_\source\repos\MyKakaotalk\MyKakaotalk\bin\Debug\MyKakaotalk.pdb
+C:\Users\Lojrbx_\source\repos\MyKakaotalk\MyKakaotalk\obj\Debug\MyKakaotalk.csprojAssemblyReference.cache
+C:\Users\Lojrbx_\source\repos\MyKakaotalk\MyKakaotalk\obj\Debug\MyKakaotalk.Properties.Resources.resources
+C:\Users\Lojrbx_\source\repos\MyKakaotalk\MyKakaotalk\obj\Debug\MyKakaotalk.csproj.GenerateResource.cache
+C:\Users\Lojrbx_\source\repos\MyKakaotalk\MyKakaotalk\obj\Debug\MyKakaotalk.csproj.CoreCompileInputs.cache
+C:\Users\Lojrbx_\source\repos\MyKakaotalk\MyKakaotalk\obj\Debug\MyKakaotalk.exe
+C:\Users\Lojrbx_\source\repos\MyKakaotalk\MyKakaotalk\obj\Debug\MyKakaotalk.pdb
+C:\Users\Lojrbx_\source\repos\MyKakaotalk\MyKakaotalk\obj\Debug\MyKakaotalk.LoginWindow.resources
+C:\Users\Lojrbx_\source\repos\MyKakaotalk\MyKakaotalk\obj\Debug\MyKakaotalk.MainWindow.resources
+C:\Users\Lojrbx_\source\repos\MyKakaotalk\MyKakaotalk\bin\Debug\mycontrol.dll
+C:\Users\Lojrbx_\source\repos\MyKakaotalk\MyKakaotalk\bin\Debug\mycontrol.pdb
+C:\Users\Lojrbx_\source\repos\MyKakaotalk\MyKakaotalk\obj\Debug\MyKakaotalk.csproj.CopyComplete
+C:\Users\Lojrbx_\source\repos\MyKakaotalk\MyKakaotalk\obj\Debug\MyKakaotalk.Friend.resources
+C:\Users\Lojrbx_\source\repos\MyKakaotalk\MyKakaotalk\obj\Debug\MyKakaotalk.ChatWindow.resources
